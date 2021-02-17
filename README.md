@@ -59,4 +59,4 @@ I nice and sink my project this way :
 code snippet in **```index.php```** file for checking his license first whenever outer once enter to my project file and if avatar's license was incorrect or whatever you got to verify that **PHP** page.
 You can put your code wherever you want to protect you from hackers and being cracked.
 
-+ For more tips you can send your ticket to sourcecloud website support.
++ For more tips you can send your ticket to **sourcecloud.ir** website support.
