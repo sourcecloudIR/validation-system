@@ -9,9 +9,9 @@
 enter your token code In **```lis/lisdata.php```** line 12th.
 
 2 - there's two way for checking license in  this  script
-+ **```verify.php```** file is for license primitive check for avatar. (First time avatar inter his license)
++ **```verify.php```** file is for license primitive check for user. (First time user inter his license)
 + License code save in **```lis/config.php```** file.
-+ **```check.php```** file is for checking the sooth of avatar's license in **```verify.php```** file he entered he's fine helps you whenever you're licensed accessibility was closed programs start working
++ **```check.php```** file is for checking the sooth of user's license in **```verify.php```** file he entered he's fine helps you whenever you're licensed accessibility was closed programs start working
 
 3 - you can put this code inside your source then whenever your other license was locked system will guide you to **```verify.php```** page.
 
@@ -29,7 +29,7 @@ enter your token code In **```lis/lisdata.php```** line 12th.
    }?>
 ```
 
-4 - In **```verify.php```** file if the entire license was correct you can make 140 line for avatar to guide to your page.
+4 - In **```verify.php```** file if the entire license was correct you can make 140 line for user to guide to your page.
 
 # Type of response
 After sending the request to the server, it responds in the form of **Jason**. 
@@ -56,7 +56,7 @@ This **Jason** has two values :
 # For example
 
 I nice and sink my project this way :
-code snippet in **```index.php```** file for checking his license first whenever outer once enter to my project file and if avatar's license was incorrect or whatever you got to verify that **PHP** page.
+code snippet in **```index.php```** file for checking his license first whenever outer once enter to my project file and if user's license was incorrect or whatever you got to verify that **PHP** page.
 You can put your code wherever you want to protect you from hackers and being cracked.
 
 + For more tips you can send your ticket to **sourcecloud.ir** website support.
